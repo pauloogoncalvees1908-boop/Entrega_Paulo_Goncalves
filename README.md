@@ -1,6 +1,6 @@
 ## Estrutura
 ```
-fastapi_ia_challenge/
+Entrega Paulo Gonçalves/
 ├── app/
 │   ├── main.py
 │   ├── schemas.py
